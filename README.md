@@ -1,1 +1,2 @@
-# DBMS_PROJ1
+# DBMS-Project1
+DBMS JDBC code
